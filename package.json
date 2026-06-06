@@ -12,7 +12,8 @@
     "lint": "eslint lib/ test/",
     "test": "npm run lint && nyc mocha test test/plugins && nyc report --reporter=lcov",
     "travis": "node bin/pkg",
-    "pkg": "pkg . --out-path=dist/ --targets"
+    "pkg": "pkg . --out-path=dist/ --targets",
+    "build": "npm run pkg"
   },
   "pkg": {
     "scripts": [
@@ -31,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/skygragon/leetcode-cli.git"
+    "url": "http://github.com/WHMHammer/leetcode-cli.git"
   },
   "keywords": [
     "leetcode",
@@ -45,9 +46,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/leetcode-tools/leetcode-cli/issues"
+    "url": "https://github.com//leetcode-cli/issues"
   },
-  "homepage": "https://github.com/leetcode-tools/leetcode-cli#readme",
+  "homepage": "https://github.com//leetcode-cli#readme",
   "dependencies": {
     "ansi-styles": "3.2.1",
     "cheerio": "0.20.0",

@@ -7,7 +7,7 @@ title: Installation
 
 No need to install node.js. Now available on 64bits linux, mac, and windows.
 
-[Download](https://github.com/skygragon/leetcode-cli/releases)
+[Download](https://github.com/WHMHammer/leetcode-cli/releases)
 
 # Prerequisites
 
@@ -51,13 +51,13 @@ This will install the latest DEV version from GitHub repo.
 
 Similar with above, while you can introduce your own changes as you wish.
 
-    $ git clone http://github.com/skygragon/leetcode-cli
+    $ git clone http://github.com/WHMHammer/leetcode-cli
     $ cd leetcode-cli && ./bin/install
     $ leetcode version
 
 ### From source (all-in-one)
 
-	$ git clone http://github.com/skygragon/leetcode-cli
+	$ git clone http://github.com/WHMHammer/leetcode-cli
 	$ cd leetcode-cli && node ./bin/pkg
 
 ### From docker

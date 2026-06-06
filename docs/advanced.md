@@ -200,6 +200,6 @@ Followings are some variables you could used in the pattern:
 
 You can easily introduce more features by installing other plugins form third parties. Here lists the avaible 3rd party plugins at the moment:
 
-* [leetcode-cli-plugins](https://github.com/skygragon/leetcode-cli-plugins)
+* [leetcode-cli-plugins](https://github.com/leetcode-tools/leetcode-cli-plugins)
 
 Feel free to try out the plugins above. Or you can develope your own plugins to enrich leetcode-cli's functionalities.

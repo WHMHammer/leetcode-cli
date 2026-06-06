@@ -88,8 +88,8 @@ title: Release Notes
 * `plugin`
     * only install necessary depedencies on specific platform.
     * add `-c` option to show plugin config.
-    * support [cookie.chrome](https://github.com/skygragon/leetcode-cli-plugins/blob/master/docs/cookie.chrome.md) plugin.
-    * support [cookie.firefox](https://github.com/skygragon/leetcode-cli-plugins/blob/master/docs/cookie.firefox.md) plugin.
+    * support [cookie.chrome](https://github.com/leetcode-tools/leetcode-cli-plugins/blob/master/docs/cookie.chrome.md) plugin.
+    * support [cookie.firefox](https://github.com/leetcode-tools/leetcode-cli-plugins/blob/master/docs/cookie.firefox.md) plugin.
 * docker
     * support running leetcode-cli as docker container for new user's tasting.
     * auto build docker image in Docker Hub.

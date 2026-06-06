@@ -1,15 +1,16 @@
 [![npm version](https://img.shields.io/npm/v/leetcode-cli.svg?style=flat)](https://www.npmjs.com/package/leetcode-cli)
-[![Releases](https://img.shields.io/github/release/skygragon/leetcode-cli.svg?style=flat)](https://github.com/skygragon/leetcode-cli/releases)
-[![license](https://img.shields.io/npm/l/leetcode-cli.svg?style=flat)](https://github.com/skygragon/leetcode-cli/blob/master/LICENSE)
+[![Releases](https://img.shields.io/github/release/skygragon/leetcode-cli.svg?style=flat)](https://github.com/WHMHammer/leetcode-cli/releases)
+[![license](https://img.shields.io/npm/l/leetcode-cli.svg?style=flat)](https://github.com/WHMHammer/leetcode-cli/blob/master/LICENSE)
 [![Build](https://img.shields.io/travis/skygragon/leetcode-cli.svg?style=flat)](https://travis-ci.org/skygragon/leetcode-cli)
 [![Join chat at https://gitter.im/skygragon/leetcode-cli](https://img.shields.io/gitter/room/skygragon/leetcode-cli.svg?style=flat)](https://gitter.im/skygragon/leetcode-cli)
 
 # leetcode-cli
 
-> Note: This repository is forked from [leetcode-cli](https://github.com/skygragon/leetcode-cli) for temporary usage. 
+> Note: This repository is forked from [leetcode-cli](https://github.com/leetcode-tools/leetcode-cli).
+
 > Note: Copy cookie from webbrowser and Using **leetcode user -c** can temporary fix can't [login problem](https://github.com/jdneo/vscode-leetcode/issues/478).
 
-<img src="https://github.com/skygragon/leetcode-cli/raw/master/docs/logo.png" align="right">
+<img src="https://github.com/WHMHammer/leetcode-cli/raw/master/docs/logo.png" align="right">
 
 A productive cli tool to enjoy leetcode!
 
@@ -20,7 +21,7 @@ Great thanks to leetcode.com, a really awesome website!
 [Docs](https://skygragon.github.io/leetcode-cli/) ⦙
 [Commands](https://skygragon.github.io/leetcode-cli/commands) ⦙
 [Advanced](https://skygragon.github.io/leetcode-cli/advanced) ⦙
-[Plugins](https://github.com/skygragon/leetcode-cli-plugins) ⦙
+[Plugins](https://github.com/leetcode-tools/leetcode-cli-plugins) ⦙
 
 * A very <kbd>[**EFFICIENT**](#quick-start)</kbd> way to fight questions.
 * <kbd>[**CACHING**](https://skygragon.github.io/leetcode-cli/advanced#cache)</kbd> questions to ease offline thinking.
@@ -34,7 +35,7 @@ Great thanks to leetcode.com, a really awesome website!
 
 ## Screenshot
 
-<kbd><img src="https://github.com/skygragon/leetcode-cli/raw/master/docs/screenshots/intro.2018.01.13.gif" /></kbd>
+<kbd><img src="https://github.com/WHMHammer/leetcode-cli/raw/master/docs/screenshots/intro.2018.01.13.gif" /></kbd>
 
 ## Quick Start
 
